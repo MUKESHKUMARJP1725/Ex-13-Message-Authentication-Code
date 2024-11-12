@@ -2,7 +2,7 @@
 
 <br>
 
-## DATE:
+### DATE:
 
 <br>
 
@@ -38,7 +38,7 @@ Step 5: Receiver computes the MAC on the received message using the same secret 
 
 <br>
 
-Step 6: If the computed MAC matches the received MAC, the message is authenticated
+Step 6: If the computed MAC matches the received MAC, the message is authenticated.
 
 <br>
 
